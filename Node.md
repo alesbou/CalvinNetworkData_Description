@@ -11,3 +11,9 @@ Each node must include:
   - Pump Plant
   - Sink
   - Water Treatment
+  
+# Link
+https://github.com/ucd-cws/calvin-network-data/blob/master/json-schema/node.json
+
+# Current version
+V00_20150213_AlvarEscrivaBou
