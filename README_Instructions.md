@@ -1,4 +1,4 @@
-# CalvinNetworkData_Description
+# Deswcribing the data of the Hobbes Project
 
 ## Introduction
 This folder includes de description of the types of data that populates the network of the Hobbes project.
