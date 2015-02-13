@@ -16,6 +16,9 @@ But with a extension .md
 ### Description
 This section will include the description of the element and each one of its parts. The description will not include a descritpion of the subelements described in other file, just a referral.
 
+### Link to geojson file
+Include a link to geojson file
+
 ### Control of changes
 Each line will include an update, with date and person who did the update from newer to older.
 
