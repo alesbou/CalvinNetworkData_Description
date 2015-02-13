@@ -1,5 +1,9 @@
 # Deswcribing the data of the Hobbes Project
 
+# Current Version
+V00_20150213_AlvarEscriva-Bou
+Working
+
 ## Introduction
 This folder includes de description of the types of data that populates the network of the Hobbes project.
 
@@ -22,3 +26,6 @@ This section will include the description of the element and each one of its par
 
 ### Control of changes
 Each line will include an update, with date and person who did the update from newer to older.
+
+## Control of changes
+V00_20150213_AlvarEscrivaBou
