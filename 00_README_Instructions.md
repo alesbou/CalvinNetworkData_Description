@@ -24,5 +24,3 @@ Each line will include an update, with date and person who did the update from n
 
 ## Control of changes
 V00_20150213_AlvarEscrivaBou
-
-Working
