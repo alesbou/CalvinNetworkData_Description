@@ -5,7 +5,7 @@ Each node includes:
 * Name
 * Description
 * Type (one of the following objects):
-  - Demand
+  - [Demand] (https://github.com/ucd-cws/calvin-network-data/blob/master/json-schema/node.json)
   - Junction
   - Power Plant
   - Pump Plant
